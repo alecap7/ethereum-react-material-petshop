@@ -37,7 +37,7 @@ Your blockchain is now up and running!
 
 #### React client setup
 
-> Note: the React frontend application in under the client folder
+> The React frontend application is under the client folder
 
 ```sh
 $ cd client
