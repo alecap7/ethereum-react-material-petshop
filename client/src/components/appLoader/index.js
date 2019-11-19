@@ -9,7 +9,6 @@ export default ({ web3, drizzleStatus, children }) => {
     return (
       // Display a web3 warning.
       <main>
-        <h1>⚠️</h1>
         <p>
           This browser has no connection to the Ethereum network. Please use the
           Chrome/FireFox extension MetaMask, or dedicated Ethereum browsers Mist

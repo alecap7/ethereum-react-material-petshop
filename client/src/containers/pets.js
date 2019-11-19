@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { drizzleConnect } from "@drizzle/react-plugin";
 import Grid from "@material-ui/core/Grid";
 import PetCard from "components/petCard";
